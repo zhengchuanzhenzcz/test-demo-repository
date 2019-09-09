@@ -8,6 +8,7 @@ public class TestRepositoryApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TestRepositoryApplication.class, args);
+        System.out.println("dev--------dev---------dev");
     }
 
 }
